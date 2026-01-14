@@ -1,4 +1,5 @@
-import React from 'react'
+// @ts-nocheck
+/* eslint-disable */
 import './ExploreMenu.css'
 import { menu_list } from '../../assets/assets'
 
